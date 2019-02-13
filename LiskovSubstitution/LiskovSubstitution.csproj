@@ -48,9 +48,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="After\Customer.cs" />
+    <Compile Include="After\CustomerTests.cs" />
     <Compile Include="After\IDatabase.cs" />
     <Compile Include="After\IDiscount.cs" />
     <Compile Include="Before\Customer.cs" />
+    <Compile Include="Before\CustomerTests.cs" />
     <Compile Include="Before\Enquiry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

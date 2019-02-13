@@ -48,11 +48,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="After\Customer.cs" />
+    <Compile Include="After\LoggerTests.cs" />
     <Compile Include="Before\Customer.cs" />
     <Compile Include="Before\EmailLogger.cs" />
     <Compile Include="Before\EventViewerLogger.cs" />
     <Compile Include="Before\FileLogger.cs" />
     <Compile Include="Before\ILogger.cs" />
+    <Compile Include="Before\LoggerTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

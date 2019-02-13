@@ -5,7 +5,7 @@ namespace DependencyInversion.After
 {
     public class Customer
     {
-        private ILogger _logger;
+        private readonly ILogger _logger;
 
         public Customer(ILogger logger)
         {

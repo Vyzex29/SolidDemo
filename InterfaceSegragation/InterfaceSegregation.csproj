@@ -51,6 +51,7 @@
     <Compile Include="After\CustomerWithRead.cs" />
     <Compile Include="After\IDatabase.cs" />
     <Compile Include="After\IDatabaseV1.cs" />
+    <Compile Include="After\InterfaceTests.cs" />
     <Compile Include="Before\Customer.cs" />
     <Compile Include="Before\CustomerWithRead.cs" />
     <Compile Include="Before\IDatabase.cs" />
